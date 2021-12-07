@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-09T15:53:08+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TITLE</title><subtitle>Description of this blog</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/01/02/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-02T19:31:29+09:00</published><updated>2020-01-02T19:31:29+09:00</updated><id>http://localhost:4000/jekyll/update/2020/01/02/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/01/02/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-07T15:16:38+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TITLE</title><subtitle>Description of this blog</subtitle><entry><title type="html">post-sample2</title><link href="http://localhost:4000/sample/2021/11/09/post1.html" rel="alternate" type="text/html" title="post-sample2" /><published>2021-11-09T20:10:00+09:00</published><updated>2021-11-09T20:10:00+09:00</updated><id>http://localhost:4000/sample/2021/11/09/post1</id><content type="html" xml:base="http://localhost:4000/sample/2021/11/09/post1.html">&lt;h2 id=&quot;theme-monos&quot;&gt;Theme Monos&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Simple and lightweight theme for Jekyll&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;features&quot;&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Responsive.&lt;/li&gt;
+  &lt;li&gt;Syntax Highlight&lt;/li&gt;
+  &lt;li&gt;Most optimized theme for tech blog.&lt;/li&gt;
+  &lt;li&gt;Lightweight with minimum stylesheet.&lt;/li&gt;
+  &lt;li&gt;Easy to customize.&lt;/li&gt;
+  &lt;li&gt;Offers category menu.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;_configyml&quot;&gt;_config.yml&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Code block will look like this.&lt;/p&gt;
+  &lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;highlighter-theme&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;monokai //you can change your syntax color scheme.&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;date_format&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;%Y-%M-%D&quot;&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;//and date format.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;  &lt;/div&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;screenshots&quot;&gt;Screenshots&lt;/h3&gt;
+&lt;h4 id=&quot;page&quot;&gt;Page&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/public/img/screenshot-1.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;post-sample&quot;&gt;post-sample&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Hello!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is code&lt;/p&gt;
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;hello world&apos;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="sample" /><summary type="html">Theme Monos Simple and lightweight theme for Jekyll</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/01/02/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-01-02T19:31:29+09:00</published><updated>2020-01-02T19:31:29+09:00</updated><id>http://localhost:4000/jekyll/update/2020/01/02/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/01/02/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
